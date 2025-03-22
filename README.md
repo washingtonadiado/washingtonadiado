@@ -10,7 +10,7 @@
 
 <br />
 <!-- about me -->
-Hi, I'm Washington Adiado, Web Developer, Graphic Designer 💻, AI Enthusiast 🤖 & Tech Entrepreneur 🚀 from Kenya 🇰🇪.<br><br>🎓 Currently pursuing BSc Mathematics and Computer Science.<br>💻 Passionate about AI, Cybersecurity and UI/UX Design.<br>🧑‍💼 Founder of Technetium Kenya, leading a team of developers.
+Hi, I'm Washington Adiado, Web Developer, Graphic Designer 💻, AI Enthusiast 🤖 & Tech Entrepreneur 🚀 from Kenya 🇰🇪.<br><br>🎓 Currently pursuing BSc Mathematics and Computer Science.<br>💻 Passionate about AI, Cybersecurity and UI/UX Design.<br>🧑‍💼 Co-founder of Technetium Kenya, leading a team of developers.
 
 
 # 💻 Tech Stack:
